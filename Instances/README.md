@@ -1,6 +1,6 @@
 # PDPTW instances
 
-_Generated to include demand deviation._
+_Generated to include demand uncertainty._
 
 Each file is read as follows:
 
